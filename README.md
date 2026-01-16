@@ -1,4 +1,4 @@
-<b>Fuzzy sets for Ada</b>
+<H2>Fuzzy sets for Ada</H2>
 <p>The current version includes
 distributions of string edit, interval arithmetic and simple components 
 packages. It provides implementations of:</p>
