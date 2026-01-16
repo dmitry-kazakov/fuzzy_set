@@ -20,14 +20,9 @@ packages. It provides implementations of:</p>
 	and renderers, linguistic variables sets editors.</li>
   </ul>
 <p>See also the <a href="#changes_log">changes log</a>.</p>
-<u><b>Quick reference</b></u>:<blockquote>
-<P>
-<a href="#Confidence_Factors">Confidence factors</a> (truth values)<br>
-<a href="#Fuzzy">Fuzzy sets</a><br>
-<a href="#intuitionistic_set">Intuitionistic_fuzzy sets</a><br>
-<a href="#fuzzy_proposition">Fuzzy logic</a><br>
-<a href="#fuzzy_numbers">Fuzzy numbers</a><br>
-<a href="#linguistic_variable">Linguistic variables</a><br>
-<a href="#Fuzzy.Linguistics.Sets">Sets of linguistic variables</a><br>
-<a href="#GTK_support">Graphical User Interface</a>&nbsp; (GTK+ widgets)</blockquote>
+
 <p><img border="0" src="gtk_fuzzy_linguistic_set_editor_vertical.gif" alt="fuzzy linguistic set editor vertical"></p>
+
+Home page: https://www.dmitry-kazakov.de/ada/fuzzy.htm
+
+Changes log: https://www.dmitry-kazakov.de/ada/fuzzy.htm#changes_log
